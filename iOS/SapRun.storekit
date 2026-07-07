@@ -1,0 +1,42 @@
+{
+  "identifier": "saprun",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Sap Run Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "saprun_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks a multi-tap dashboard and syrup-yield ratio calculator.",
+              "displayName": "Sap Run Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "saprun_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Sap Run Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
